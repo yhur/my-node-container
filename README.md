@@ -1,6 +1,11 @@
+Do you create the docker container for every nodejs or similar projects like react, loopback and so on? And even every test step during the development?
+
+What about a container image with which you can kick off your nodejs project as the docker container by just pointing to the folder?
+
+
 # my-node-container
 
-This is the Dockerfile project to build a nodejs container which can be used mainly during development stage.
+This is the Dockerfile project to build a nodejs container which can be used mainly during development stage for the above cases.
 
 ## Usage
 
