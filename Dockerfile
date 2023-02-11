@@ -1,4 +1,6 @@
-# Check out https://hub.docker.com/_/node to select a new base image
+# Dockerfile to create a docker container image to run nodejs proejct
+# refer to https://github.com/yhur/my-node-container.git
+#
 FROM node:16-slim
 
 # Set to a non-root built-in user `node`
